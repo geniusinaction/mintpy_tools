@@ -7,5 +7,8 @@ A bunch of things I wrote that are useful for MintPy output
 
 Dependencies:
 * MintPy
+* numpy
 * matplotlib
-* gdal
+* osgeo
+* datetime
+* dateutil
